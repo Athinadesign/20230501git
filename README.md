@@ -2,7 +2,7 @@
 
 - git init: intialize git repository (repo)
 	-do not nest git repositories
-
+#THIS master
 - git status: provide you info about what's going on
 - git add
 - git commit
