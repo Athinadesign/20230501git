@@ -23,6 +23,7 @@
 - git restore HASH FILE : to revert file to pre commit stage
 - git checkout HASH FILE: rever file from any point in time
 - git restore --source=HASH FILE : newer way to restore a file
+	# Ignore
 - .gitignore: file of patterns for which files/folders to ignore
 - .git keep: convention to put a file in an empty folder we want
 - ssh-keygen: create a ssh key
