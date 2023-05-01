@@ -31,3 +31,10 @@
 - git restore --source=HASH FILE : newer way to restore a file
 - .gitignore: file of patterns for which files/folders to ignore
 - .git keep: convention to put a file in an empty folder we want
+
+- ssh-keygen: create a ssh key
+  - copy the ~/ .ssh/id_rsa.pub to your git account
+  - use ssh url not https url
+ - git remote add <NAME> <URL> : create remote connection
+- git push REMOTE BRANCH: git push origin main (master)
+-get pull REMOTE BRANCH: pull code from remote
